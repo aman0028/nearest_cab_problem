@@ -1,7 +1,5 @@
 package org.nearestcab.problem;
 
-//This is a java program to find nearest neighbor using KD Tree implementation
-
 import java.util.Scanner;
 
 public class FindNearestCab
